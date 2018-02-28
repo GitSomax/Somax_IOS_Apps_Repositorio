@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ionicframework.FlotaArgentina</string>
 				<key>bundle-version</key>
-				<string>0.1.0</string>
+				<string>0.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Bat-Flota</string>
+				<string>Bat - Flota</string>
 			</dict>
 		</dict>
 	</array>
