@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ionicframework.FlotaBatChile</string>
+				<string>com.ionicframework.FlotaBat</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Flota Bat Chile</string>
+				<string>Bat Chile Flota</string>
 			</dict>
 		</dict>
 	</array>
