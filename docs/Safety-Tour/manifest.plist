@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://gitsomax.github.io/Somax_IOS_Apps_Repositorio/Safety-Tour/SafetyTour.ipa</string>
+					<string>https://gitsomax.github.io/Somax_IOS_Apps_Repositorio/Safety-Tour/safety-tour.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.somax.safexsafetytour</string>
 				<key>bundle-version</key>
-				<string>0.0.9</string>
+				<string>0.1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
