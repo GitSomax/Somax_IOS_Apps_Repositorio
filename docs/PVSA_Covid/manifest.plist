@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitsomax.github.io/Somax_IOS_Apps_Repositorio/PVSA_Covid/PVSA_FORMULARIOSALUD.ipa</string>
+					<string>https://gitsomax.github.io/Somax_IOS_Apps_Repositorio/PVSA_Covid/FormularioSalud.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.somax.pvsaFormularioSalud</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>0.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>PVSA_FORMULARIOSALUD</string>
+				<string>FormularioSalud</string>
 			</dict>
 		</dict>
 	</array>
